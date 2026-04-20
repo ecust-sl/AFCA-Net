@@ -17,3 +17,6 @@
 
 ## 5. Five-Fold Training Data Path
 - `./KFData/kfold_data_all_final_dwi_flair`
+
+## 6. Plotting Code Style Reference (Paper Figures)
+- Refer to the plotting style and examples in `./draw_pic_tools/` (e.g., `binary_roc.py`, `three_roc.py`, `leida_css.py`, `dca_css.py`, etc.).
