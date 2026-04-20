@@ -1,0 +1,1 @@
+Train/DWI/070.nii.gz Train/FLAIRS/070.nii.gz Train/Labels/070.nii.gz 1
